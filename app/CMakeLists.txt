@@ -1,0 +1,2 @@
+add_executable(pandar128 pandar128.cc)
+target_link_libraries(pandar128 pandar128_driver)
